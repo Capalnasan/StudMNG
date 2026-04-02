@@ -1,0 +1,13 @@
+[Student]-(Login)
+[Teacher]-(Login)
+[Admin]-(Login)
+
+[Teacher]-(View Students)
+[Teacher]-(Add Student)
+[Teacher]-(Edit Student)
+[Teacher]-(Delete Student)
+
+[Admin]-(Manage Users)
+[Admin]-(View Students)
+
+(Login)<(Authenticate)
